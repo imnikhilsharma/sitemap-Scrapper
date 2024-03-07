@@ -1,8 +1,6 @@
 # Sitemap URL Scraper for Google Sheets
 This Google Apps Script code automates the process of extracting URLs from a sitemap and populating them into a Google Sheet. Ideal for SEO, site audits, or organizing site content efficiently.
-
 ##How to Use
-
 1. Open your Google Sheet where you want the URLs to be listed.
 2. Navigate to `Extensions` > `Apps Script`.
 3. Clear any existing code and paste the provided script.
